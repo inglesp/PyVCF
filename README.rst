@@ -1,6 +1,19 @@
+PyVCF
+=====
+
 A VCFv4.0 and 4.1 parser for Python.
 
 Online version of PyVCF documentation is available at http://pyvcf.rtfd.org/
+
+Installation
+------------
+
+The library can be installed via ``pip``:
+
+    pip install pyvcf
+
+Usage
+-----
 
 The intent of this module is to mimic the ``csv`` module in the Python stdlib,
 as opposed to more flexible serialization formats like JSON or YAML.  ``vcf``
